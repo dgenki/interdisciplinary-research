@@ -13,7 +13,7 @@ The instrucions are:
 In the file diversity_measures_1.R, replace the path with your working directory, which is the directory in which
 you keep the script files.
 
--you can edit the file article_references_matrix_fv.csv to analyze your own sample. This file is a set of paper identified by a number in the first column and ISI subject categories that the paper references. 
+-you can edit the file articles_sample.csv to analyze your own sample. This file is a set of paper identified by a number in the first column and ISI subject categories that the paper references. 
 
 -Install r
 -Invoke r by typing R in the command line
