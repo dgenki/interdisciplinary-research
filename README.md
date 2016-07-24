@@ -1,5 +1,5 @@
 # interdisciplinary-research
-repository for code and data found in the paper Chavarro, Tang, and Rafols (2014). Interdisciplinarity and research on local issues: evidence from a developing country. Research Evaluation, 23(3), p.p. 195-209. doi: 10.1093/reseval/rvu012
+repository for code and data found in the paper Chavarro, D., Tang, P., and Rafols (2014). Interdisciplinarity and research on local issues: evidence from a developing country. Research Evaluation, 23(3), p.p. 195-209. doi: 10.1093/reseval/rvu012
 
 file Diversity_measures_1.R
 
