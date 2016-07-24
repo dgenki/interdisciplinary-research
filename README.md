@@ -1,11 +1,11 @@
 # interdisciplinary-research
-repository for code and data found in the paper Chavarro, Tang, and Rafols (2014). Interdisciplinarity and research on local issues: evidence from a developing country. Research Evaluation, 23(3), p.p. 195-209
+repository for code and data found in the paper Chavarro, Tang, and Rafols (2014). Interdisciplinarity and research on local issues: evidence from a developing country. Research Evaluation, 23(3), p.p. 195-209. doi: 10.1093/reseval/rvu012
 
 file Diversity_measures_1.R
 
 Diego Chavarro
 
-This script calculates diversity measures as in Rafols, i. and Meyer, M. (2010). Diversity and network coherence as indicators of interdisciplinarity: case studies in bionanoscience. Scientometrics, 82 (2), p.p. 263-287.
+This script calculates diversity measures as in Rafols, i. and Meyer, M. (2010). Diversity and network coherence as indicators of interdisciplinarity: case studies in bionanoscience. Scientometrics, 82 (2), p.p. 263-287. doi:10.1007/s11192-009-0041-y
 
 The instrucions are:
 
